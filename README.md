@@ -5,13 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mio-dokuhaki&label=Profile%20views&color=0e75b6&style=plastic" alt="mio-dokuhaki" /> </p>
 
 <h3 align="center" font-size='25px'>My Favorite Tools and Technologies</h3>
-
+   
 <table align="center" style="border-radius: 15px; width: 80%; border: 2px solid #e1e4e8; padding: 10px;">
   <tr>
     <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
         <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rust_programming_language_black_logo.svg" width="60" height="60" alt="Rust" />
       <br>Rust
-    </td>
+    </td>     
     <td align="center" width="120" style="border-radius: 15px; padding: 10px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" height="60" alt="Golang" />
       <br>Golang
